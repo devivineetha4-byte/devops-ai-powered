@@ -7,5 +7,7 @@ Check it out : (https://trainwithshubham.ai)
 - INTRO TO DEVOPS
 - LINUX
 - SHELL
+- COMPUTER NETWORKING
+- GIT
 
 
