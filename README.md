@@ -1,6 +1,6 @@
 # DEVOPS AI POWERED TRAINING
 
-Check it out : [https://trainwithshubham.ai]
+Check it out : (https://trainwithshubham.ai)
 
 ##  TOPICS
 
