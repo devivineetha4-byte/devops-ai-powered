@@ -9,8 +9,5 @@ Check it out : (https://trainwithshubham.ai)
 - SHELL
 - COMPUTER NETWORKING
 - GIT
-- GIT HUB
-
-
 
 
