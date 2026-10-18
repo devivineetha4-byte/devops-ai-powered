@@ -8,6 +8,6 @@ Check it out : (https://trainwithshubham.ai)
 - LINUX
 - SHELL
 - COMPUTER NETWORKING
-- GIT
+- GIT & GITHUB
 
 
