@@ -10,5 +10,6 @@ Check it out : (https://trainwithshubham.ai)
 - COMPUTER NETWORKING
 - GIT & GITHUB FUNDAMENTALS
 - GITHUB ADVANCED
+- NEXT DOCKER
 
 
