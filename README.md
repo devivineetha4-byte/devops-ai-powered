@@ -22,6 +22,8 @@ Note :Always do a day of assignment from #90daysofDevOps
 - AWS
 - TERRAFORM
 - ANSIBLE
+- OBSERVABILITY
+
 
 
 
