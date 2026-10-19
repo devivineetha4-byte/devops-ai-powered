@@ -21,15 +21,7 @@ Note :Always do a day of assignment from #90daysofDevOps
 - KUBERNETES
 - AWS
 - TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-- TERRAFORM
-
+- ANSIBLE
 
 
 
