@@ -14,6 +14,8 @@ Check it out : (https://trainwithshubham.ai)
 - NEXT DOCKER ADVANCED
 - PHASE 1 MCQ EXAM
 - MINI PROJECT
+- GITHUB ACTIONS
+- JENKINS
 
 
 
