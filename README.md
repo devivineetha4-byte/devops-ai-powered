@@ -2,6 +2,8 @@
 
 Check it out : (https://trainwithshubham.ai)
 
+Note :Always do a day of assignment from #90daysofDevOps
+
 ##  TOPICS
 
 - INTRO TO DEVOPS
