@@ -22,6 +22,8 @@ Note :Always do a day of assignment from #90daysofDevOps
 - AWS
 - TERRAFORM
 - ANSIBLE
+- PHASE 2 MCQ EXAM
+- MINI PROJECT
 - OBSERVABILITY
 
 
