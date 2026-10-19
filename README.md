@@ -16,6 +16,7 @@ Check it out : (https://trainwithshubham.ai)
 - MINI PROJECT
 - GITHUB ACTIONS
 - JENKINS
+- KUBERNETES
 
 
 
