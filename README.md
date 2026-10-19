@@ -19,6 +19,8 @@ Note :Always do a day of assignment from #90daysofDevOps
 - GITHUB ACTIONS
 - JENKINS
 - KUBERNETES
+- AWS
+
 
 
 
